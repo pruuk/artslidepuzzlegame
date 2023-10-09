@@ -32,13 +32,13 @@ class Game():
         if not isinstance(self.level.best_score, int):
             # new best score, no previous score
             self.level.db.replace_best(self.lvl_num, self.level.board.swap_moves)
-        if self.level.best_score > self.level.board.swap_moves:
+        elif self.level.best_score > self.level.board.swap_moves:
             # new best score
             self.level.db.replace_best(self.lvl_num, self.level.board.swap_moves)
         if not isinstance(self.level.worst_score, int):
             # new worst score, no previous score
             self.level.db.replace_worst(self.lvl_num, self.level.board.swap_moves)
-        if self.level.worst_score < self.level.board.swap_moves:
+        elif self.level.worst_score < self.level.board.swap_moves:
             # new worst score
             self.level.db.replace_worst(self.lvl_num, self.level.board.swap_moves) 
         # pause game for a few seconds to congratulate the player
