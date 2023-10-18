@@ -1,7 +1,7 @@
 # The Art Slide Puzzle Game
 #### Video Demo:
 
-#### Requiremenmts:
+#### Requirements:
     In order to run this program, you will need to install the following libraries:
         pygame
         pillow
