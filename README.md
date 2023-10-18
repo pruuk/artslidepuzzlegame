@@ -16,7 +16,7 @@
 
     The game features five images of Malia Ambata's art. Three of the images are paintings and the
     remaining images are pictures of fired and hand painted clay sculpture busts. 
-    ![gallery!](https://drive.google.com/drive/u/0/folders/1ysrwbI63L_akJ7F878690itY_LEFtc-H)
+    ![gallery!](https://photos.google.com/photo/AF1QipNTTjB0Ny0WlpQcENCSy6OWMYUTVjhaDqqH7tJh)
 
     
     Gameplay:
