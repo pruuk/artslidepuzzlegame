@@ -3,9 +3,9 @@
 
 #### Requirements:
     In order to run this program, you will need to install the following libraries:
-        pygame
-        pillow
-        sqlite3
+        pygame- https://www.pygame.org/wiki/GettingStarted
+        pillow- https://pillow.readthedocs.io/en/latest/installation.html
+        sqlite3- https://www.sqlite.org/download.html
 
 #### Description:
     This project was co-created by Calabe Davis and Malia Ambata as the final project for Harvard's
@@ -16,6 +16,8 @@
 
     The game features five images of Malia Ambata's art. Three of the images are paintings and the
     remaining images are pictures of fired and hand painted clay sculpture busts. 
+    ![gallery!](https://drive.google.com/drive/u/0/folders/1ysrwbI63L_akJ7F878690itY_LEFtc-H)
+
     
     Gameplay:
     1. The game randomly chooses one of the five images at the start of each level.
