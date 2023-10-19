@@ -16,9 +16,10 @@
 
     The game features five images of Malia Ambata's art. Three of the images are paintings and the
     remaining images are pictures of fired and hand painted clay sculpture busts. 
-    ![gallery!](../slidepuzzlegallery.jpg)
-
     
+
+    ![spuzzlegallery](https://github.com/pruuk/artslidepuzzlegame/assets/125835766/e6e998e2-911d-45d5-bd09-b7ba9576d4e6)
+
     Gameplay:
     1. The game randomly chooses one of the five images at the start of each level.
     2. The image is split into a number of tiles, starting with a 2 X 2 grid and increasing at later
