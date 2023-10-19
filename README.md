@@ -18,7 +18,7 @@
     remaining images are pictures of fired and hand painted clay sculpture busts. 
     
 
-    ![spuzzlegallery](https://github.com/pruuk/artslidepuzzlegame/assets/125835766/e6e998e2-911d-45d5-bd09-b7ba9576d4e6)
+![spuzzlegallery](https://github.com/pruuk/artslidepuzzlegame/assets/125835766/a051d423-27a3-4b7d-8289-a4c78ea10184)
 
     Gameplay:
     1. The game randomly chooses one of the five images at the start of each level.
