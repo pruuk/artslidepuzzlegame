@@ -1,6 +1,7 @@
 # The Art Slide Puzzle Game
 #### Video Demo:
-
+Click on the image to watch the video demo on You Tube!
+[![Watch the video demo](/images/artPuzzLogo.jpg)](https://youtu.be/H0q_LhAIe2Q)
 #### Requirements:
     In order to run this program, you will need to install the following libraries:
         pygame - https://www.pygame.org/wiki/GettingStarted
