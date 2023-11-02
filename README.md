@@ -12,11 +12,16 @@ Click on the image below to watch the video demo on You Tube!
     This project was co-created by Calabe Davis and Malia Ambata as the final project for Harvard's
     CS50 Introduction to Computer Science Course. It is a simple game written in Python that allows
     the player to try to rearrange tiles to reform artworks back into their original tile positions.
+    
     This is a clone of the classic slide puzzle games, written from scratch. The game engine used
     for the game is Pygame. 
 
     The game features five images of Malia Ambata's art. Three of the images are paintings and the
     remaining images are pictures of fired and hand painted clay sculpture busts. 
+
+    The game includes sounds, a db for storing high and low scores for each level, and some simple
+    tests. Note that the game will not run without the libraries shown above in the requirements
+    section.
     
 ![spuzzlegallery](https://github.com/pruuk/artslidepuzzlegame/assets/125835766/a051d423-27a3-4b7d-8289-a4c78ea10184)
 
